@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="12.1.cpp" />
+    <ClCompile Include="Data.cpp" />
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Data.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C6EBB43F-3247-40D4-8768-71A8F09E147C}</ProjectGuid>
