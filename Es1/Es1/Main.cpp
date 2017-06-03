@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	Data d;
+	Data d; // questa è una prova
 	d.inserisci();
 	d.print();
 
