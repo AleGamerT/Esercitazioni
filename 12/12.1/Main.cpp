@@ -3,10 +3,9 @@
 using namespace std;
 
 int main() {
-	Data d; // questa è una prova
+	Data d;
 	d.inserisci();
 	d.print();
-
 
 	return 0;
 }
